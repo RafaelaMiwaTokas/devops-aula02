@@ -1,2 +1,2 @@
 # devops-aula02
-Nicolas cage, Adam Sandler, Angelina Jolie
+Nicolas cage, 2º item na sua lista , Angelina Jolie, um item a mais 
